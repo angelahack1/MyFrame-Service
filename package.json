@@ -1,0 +1,30 @@
+{
+  "name": "myframe-service",
+  "version": "1.0.0",
+  "description": "Server-side application to receive and process querys and update from MyFrame devices.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angelahack1/MyFrame-Service.git"
+  },
+  "keywords": [
+    "AIXKARE",
+    "IOT",
+    "AI",
+    "ARTECNOLOGIA",
+    "AYASPA",
+    "NODEJS",
+    "WEARABLES",
+    "ANGELA",
+    "ANA"
+  ],
+  "author": "Angela Lopez Mendoza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angelahack1/MyFrame-Service/issues"
+  },
+  "homepage": "https://github.com/angelahack1/MyFrame-Service#readme"
+}
